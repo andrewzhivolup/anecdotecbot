@@ -5,7 +5,7 @@ from fake_useragent import UserAgent
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.dispatcher.filters import Text
 # Объект бота
-bot = Bot(token="1961096224:AAGxWZRjE6CjKTIqn2Akm7xUQH5Y8y3woIo")
+bot = Bot(token="-")
 # Диспетчер для бота
 dp = Dispatcher(bot)
 
